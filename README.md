@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.png" alt="Grupo 4" width="520"/>
+<img src="./assets/grupo4-lockup-escuro.png" alt="Grupo 4" width="520"/>
 
 # Grupo 4
 
