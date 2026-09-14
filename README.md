@@ -2,10 +2,6 @@
 
 <img src="./assets/grupo4-lockup-escuro.png" alt="Grupo 4" width="520"/>
 
-# Grupo 4
-
-### Soluções Tecnológicas
-
 </div>
 
 ---
